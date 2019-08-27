@@ -1,0 +1,4 @@
+123456789|Cliente 1|8181-3434|Rua Y
+123456784|Cliente 3|8181-3433|Rua B
+88997799|wagner|98144444|rua main
+79067247200|wagner batista de oliveira|9891427777|rua E
